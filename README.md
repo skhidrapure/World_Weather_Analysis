@@ -1,10 +1,8 @@
 # World_Weather_Analysis
 
-This repo containts c
-
-Using APIs to access weather data and analyze it using pandas. 
-
 This repository maintains code for a travel planner & recommendation tool. The project takes into consideration the users input of weather, specifically the tempurate of the destination and then recommends multiple cities and hotels which meet the criteria, the tool also helps users create a round trip itinerary. 
+
+The repo utilizes APIs to access Weather Info and then access Google Maps API to generate and display maps.
 
 The Project is made up of 3 major parts. 
 
